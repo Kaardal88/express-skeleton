@@ -2,7 +2,7 @@
 
 ## This is my Express project skeleton.
 
-It is a template which has some dependencies and devDependencies installed. It also contains some files and folders structure.
+It is a template which has some dependencies and devDependencies installed. It also contains some files and folder structure + some example code you can delete if not needed.
 
 ## How to use
 
@@ -13,8 +13,8 @@ It is a template which has some dependencies and devDependencies installed. It a
 
 ### 2. Locally
 
-- git clone <your-new-repo-url>
-- cd <your-new-repo-url>
+- git clone _your-new-repo-url_
+- cd _your-new-repo-url_
 - npm install
 - npm run dev
 
